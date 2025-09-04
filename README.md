@@ -34,7 +34,7 @@ Follow these steps to run the codes:
 2. **Clone this repository**  
    Open your terminal or command prompt and run:
 
-git clone https://github.com/YOUR-ORG/ACROM-Chapter1.git
+git clone [https://github.com/YOUR-ORG/ACROM-Chapter1.git](https://github.com/RithvikReddy0-0/ACROM-Chapter1)
 
 3. **Open a code file**  
 Navigate to the `ACROM-Chapter1/codes/` directory and open any `.ino` file in the Arduino IDE.
